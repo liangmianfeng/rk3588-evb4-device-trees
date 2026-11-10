@@ -1,0 +1,35 @@
+Vendor Linux Kernel Source Archive
+==================================
+
+Kernel version:
+  Linux 6.1.115
+
+Git commit:
+  372ce582b94a3360a29727c3c49c88bb7509da22
+
+Git branch:
+  kernel-rk35xx-6.1
+
+Git describe:
+  v6.1.115-122303-g372ce582b94a
+
+Original source directory:
+  cache/sources/linux-kernel-worktree/6.1__rk35xx__arm64
+
+Source repository remote:
+  Not configured in the local source worktree.
+
+Archive contents:
+  arch/arm64/boot/dts/rockchip/
+  include/dt-bindings/
+  Documentation/devicetree/bindings/
+  LICENSES/
+
+Purpose:
+  Reference archive for Nervus RK3588 EVB4 device-tree
+  development, hardware debugging, and comparison with
+  Mainline Linux 7.1.3.
+
+Notes:
+  This is a selected device-tree-related source archive,
+  not a complete Linux kernel source tree.

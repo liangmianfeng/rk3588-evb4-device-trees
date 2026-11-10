@@ -1,0 +1,31 @@
+Mainline Linux Kernel Source Archive
+====================================
+
+Kernel version:
+  Linux 7.1.3
+
+Source directory:
+  /mnt/d/linux-7.1.3/linux-7.1.3
+
+Source revision:
+  Local source tree; not a Git repository.
+  Git commit information is unavailable.
+
+Source Makefile version:
+  VERSION = 7
+  PATCHLEVEL = 1
+  SUBLEVEL = 3
+
+Archive contents:
+  arch/arm64/boot/dts/rockchip/
+  include/dt-bindings/
+  Documentation/devicetree/bindings/
+  LICENSES/
+
+Purpose:
+  Reference archive for Nervus RK3588 EVB4 device-tree
+  development and comparison with Vendor Linux 6.1.
+
+Notes:
+  This is a selected device-tree-related source archive,
+  not a complete Linux kernel source tree.
